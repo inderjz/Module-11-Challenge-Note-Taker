@@ -32,6 +32,11 @@
 
   ## [Usage](#table-of-contents)
 
+  After you have pressed the Get started button you will enter the Note taker. On the left hand side you will have a column where it says No saved Notes on the top and once you have saved your notes that where all of your notes will be saved so whenever you come back at a later time your notes will still be there. On the right side you have place to write your Note title and your Note text and after you have completed writing press the save button on top right to save your notes. Next to the save button you have a pencil to delete everything you wrote on the current Notes. After you have saved a Note you will have a delete button on top right of the note to delete it.
+  
+  <img width="1201" alt="Screenshot 2022-12-03 at 8 18 25 PM" src="https://user-images.githubusercontent.com/112728880/205474314-1b1719c0-52c8-44aa-8d57-bd7286f3a083.png">
+
+  <img width="385" alt="Screenshot 2022-12-03 at 8 21 03 PM" src="https://user-images.githubusercontent.com/112728880/205474328-bd92522a-87ee-41ab-bd7e-15d94b6597df.png">
   
   
   ## [License](#table-of-contents)
