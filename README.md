@@ -7,7 +7,7 @@
   ## Table-of-Contents
 
   * [Description](#description)
-  * [Installation](#installation)
+  * [LandingPage](#landingpage)
   * [Usage](#usage)
   
   * [License](#license)
@@ -25,17 +25,12 @@
 
   Anyone can use this to make fast notes just like they would on paper or in a notebook, but they run the risk of losing their paper and any essential notes they made. They can use my app instead and not have to worry about losing their notes since they would be saved on their mobile.
 
-  ## [Installation](#table-of-contents)
+  ## [LandingPage](#table-of-contents)
 
   None
 
   ## [Usage](#table-of-contents)
 
-  udj]
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
   
   
   ## [License](#table-of-contents)
