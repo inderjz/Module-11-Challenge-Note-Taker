@@ -14,7 +14,7 @@
     
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Deployed Link](#deployedlink)
+  * [Deployed Link](#deployed link)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
