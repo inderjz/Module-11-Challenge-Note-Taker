@@ -21,13 +21,14 @@
 
   My product, called a Note taker, can assist people with taking notes at meetings, classes, and other significant events.
 
-  yes
-
   Anyone can use this to make fast notes just like they would on paper or in a notebook, but they run the risk of losing their paper and any essential notes they made. They can use my app instead and not have to worry about losing their notes since they would be saved on their mobile.
 
   ## [LandingPage](#table-of-contents)
 
-  None
+  When you deploy the application you will have title of the project with a little note under it. Under the title and the quick note there is a Get Started button to enter the note taker. 
+  
+  <img width="1194" alt="Screenshot 2022-12-03 at 8 13 39 PM" src="https://user-images.githubusercontent.com/112728880/205474088-c3e79776-b331-42bc-a3d9-b67ee8f74cac.png">
+
 
   ## [Usage](#table-of-contents)
 
