@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inderjz/note-taker.git"
+    "url": "git+https://github.com/inderjz/module-11-challenge-note-taker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/inderjz/note-taker/issues"
+    "url": "https://github.com/inderjz/module-11-challenge-note-taker/issues"
   },
-  "homepage": "https://github.com/inderjz/note-taker#readme"
+  "homepage": "https://github.com/inderjz/module-11-challenge-note-taker#readme"
 }
