@@ -57,7 +57,7 @@
 
   There are no tests for this app.
   
-  ## [Deployed Link] (#table-of-contents)
+  ## [Deployed Link](#table-of-contents)
 
   https://note-taker-inderjz.herokuapp.com/
 
